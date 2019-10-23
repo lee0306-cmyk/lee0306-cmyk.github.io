@@ -1,0 +1,29 @@
+#card {
+	margin: auto;
+	height: 460px;
+	width: 300px;
+	background-color: #C8C8C8;
+	border-radius: 28px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+body p {
+}
+
+#pic {
+	background-color: #FFC67E;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-image: url(images/head3.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 100px;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
